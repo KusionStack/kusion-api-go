@@ -10,7 +10,7 @@ This library is published separately to avoid circular dependency and diamond de
 
 ## Where does this repo come from? 
 
-`kusion-api-go` is synced from [](https://github.com/KusionStack/kusion/tree/main/pkg/apis). Code changes will be first made in `kusion` and later synced into this repository. The tag versions of `kusion-api-go` are compatible with `kusion` since `v0.13.0`. 
+`kusion-api-go` is synced from [https://github.com/KusionStack/kusion/tree/main/pkg/apis](https://github.com/KusionStack/kusion/tree/main/pkg/apis). Code changes will be first made in `kusion` and later synced into this repository. The tag versions of `kusion-api-go` are compatible with `kusion` since `v0.13.0`. 
 
 ## Contributing
 
